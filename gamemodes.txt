@@ -1,0 +1,96 @@
+PVE
+- Campaign (up to 3 player coop, a player always needs to be the protganist for that chapter).
+2 out of 3 players are normal players, the 3rd player plays as dave or jack, both are jack (Jack-of-All-Trades Robot) bots, the experience is quite different between player and jack player, Jack player feels like half of a player in Campaign.
+
+- Campaign DLC (Hiverbuster, up to 3 player coop, no need to play a specific character like the main campaign).
+
+- Horde 
+-- Horde (50 Waves, with class abilities and fabricator)
+--- Settings
+- Fill with bots: ON|OFF (Default: ON)
+-- Tooltip: "Fill all open slots with AI Players"
+
+- Starting Wave: 1-50 (Default: 1)
+-- Tooltip: Choose a starting wave
+
+- Use Fabricator: ON|OFF (Default: ON)
+-- Use Fabricator?
+
+- Use Cards: ON|OFF (Default: ON)
+-- Tooltip: Use (Class) Cards?
+
+- Event Hats NONE|BIG HEAD: MARCUS/RAAM| PUMPKIN | SANTA | BUNNY | HEART (Default: None)
+-- Tooltip: Apply a hat to all character in-game
+
+---
+
+-- Horde Frenzy (12 Waves, with class abilities and fabricator)
+--- Settings
+- Fill with bots: ON|OFF (Default: ON)
+-- Tooltip: "Fill all open slots with AI Players"
+
+- Starting Wave: 1-50 (Default: 1)
+-- Tooltip: Choose a starting wave
+
+- Use Fabricator: ON|OFF (Default: ON)
+-- Use Fabricator?
+
+- Use Cards: ON|OFF (Default: ON)
+-- Tooltip: Use (Class) Cards?
+
+- Event Hats NONE|BIG HEAD: MARCUS/RAAM| PUMPKIN | SANTA | BUNNY | HEART (Default: None)
+-- Tooltip: Apply a hat to all character in-game
+
+----
+
+-- Classic Horde (50 Waves, without class abilities or fabricator)
+
+--- Settings
+- Fill with bots: ON|OFF (Default: ON)
+-- Tooltip: "Fill all open slots with AI Players"
+
+- Starting Wave: 1-50 (Default: 1)
+-- Tooltip: Choose a starting wave
+
+- Use Fabricator: ON|OFF (Default: OFF)
+-- Use Fabricator?
+
+- Use Default Loadout ON (Default: ON)
+-- Use Default Loadouts?
+
+- Use Cards: ON|OFF (Default: OFF)
+-- Tooltip: Use (Class) Cards?
+
+- Gameplay Tuning: Classic Horde (Default: Classic Horde)
+-- Choose which gameplay tuning to use for the match.
+
+- Use Weapon Pickups ON (Default: ON)
+-- Use Weapon Pickups?
+
+---
+
+-- Classic Horde Frenzy (12 Waves, without class abilities or fabricator)
+
+--- Settings
+- Fill with bots: ON|OFF (Default: ON)
+-- Tooltip: "Fill all open slots with AI Players"
+
+- Starting Wave: 1-50 (Default: 1)
+-- Tooltip: Choose a starting wave
+
+- Use Fabricator: ON|OFF (Default: OFF)
+-- Use Fabricator?
+
+- Use Default Loadout ON (Default: ON)
+-- Use Default Loadouts?
+
+- Use Cards: ON|OFF (Default: OFF)
+-- Tooltip: Use (Class) Cards?
+
+- Gameplay Tuning: Classic Horde (Default: Classic Horde)
+-- Choose which gameplay tuning to use for the match.
+
+- Use Weapon Pickups ON (Default: ON)
+-- Use Weapon Pickups?
+
+----

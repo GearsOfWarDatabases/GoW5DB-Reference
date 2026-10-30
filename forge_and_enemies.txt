@@ -1,0 +1,97 @@
+Tap
+Start or During of 1st Round (of being alive) - 10% team HP per tap | Gives 300 energy at the end of the round
+Start of 2nd Round (of being alive) - 15% team HP per tap (without dying) | Gives 600 energy at the end of the round
+Start of 3rd Round (of being alive) - 20% team HP per tap (without dying) | Gives 900 energy at the end of the round
+Start of 4th Round (of being alive) - 25% team HP per tap (without dying), capped at 25% per tap maxed. | Gives 1500 energy at the end of the round
+
+
+--
+
+Begineer
+Name, Energy
+
+Juvie, 140
+Locust Sniper, 280
+Reject, 280
+Ice Sion, 700
+Locust Hybrid, 185
+Locust Drone, 280
+Cyclops, 280
+Palace Guard, 560
+Sire, 700
+Theron Guard, 560
+Elite Drone, 795
+Flame Grenadier, 700
+Grenadier, 560
+Grenadier Elite, 700
+Bastion, 700
+Pouncher, 700
+Warden, 1865
+Mulcher Sion, 935
+Matriach, 5600
+Lambent Drone, 185
+Bolter, 280
+Buzzkill Sion, 700
+Lambent Grenadier, 560
+Lambent Theron, 560
+--
+
+Name, Weapon
+
+- Red
+Juvie, N/A
+Locust Sniper, Longshot
+Reject, N/A
+Ice Sion, Cryocannon
+Locust Hybrid, Retro lancer
+Locust Drone, Hammerburst
+Cyclops, Lancer
+Palace Guard, Torque Bow / Lancer
+Sire, N/A
+Theron Guard, Torque Bow
+Elite Drone, Claw
+Flame Grenadier, Flamethrower
+Grenadier, Gnasher + Grenade
+Grenadier Elite, Gnasher + Grenade
+Bastion, N/A
+Pouncher, N/A
+Warden, Breaker Mace
+Mulcher Sion, Mulcher
+Matriach, N/A
+Bolter, Boltok
+Buzzkill Sion, Buzzsaw
+
+- Yelow
+Lambent Drone, Hammerburst
+Lambent Grenadier, Gnasher
+Lambent Theron, Torque Bow
+
+--
+
+Forge
+Name, Level 1, Level 2, Level 3, Level 4 (without jack card) | Level 1, Level 2, Level 3, Level 4 (with jack card)
+
+Retro lancer, 20, 40, 80, 120
+Gnasher, 20, 40, 80, 120
+Lancer, 20, 40, 80, 120
+Markza, 20, 40, 80, 120
+Enforcer, 20, 40, 80, 120
+Longshot, 20, 40, 80, 120
+Lancer GL, 20, 40, 80, 120
+Overkill, 20, 40, 80, 120
+EMBAR, 20, 40, 80, 120
+Claw, 20, 40, 80, 120
+Hammerburst, 20, 40, 80, 120
+Flamethrower, 20, 40, 80, 120
+
+Boomshot, 40, 80, 160, 240
+Dropshot, 40, 80, 160, 240
+Torque Bow, 40, 80, 160, 240
+Salvo, 40, 80, 160, 240
+
+Mulcher, 30, 60, 120, 180
+Tri-shot, 30, 60, 120, 180
+Cryocannon, 30, 60, 120, 180
+Breaker Mace, 30, 60, 120, 180
+Buzzsaw, 30, 60, 120, 180
+

@@ -1,0 +1,21 @@
+Honor / Allies system (from My Squad screen)
+=============================================
+Hovering a squad member shows an Honor panel:
+
+  FPS PLEB
+  NOT YET ALLIES          HONOR 0 / 25
+  [progress bar]
+
+  Campaign Chapters Cleared   0
+  Escape Chapters Cleared     0
+  Versus Rounds Won           0
+  Horde Waves Cleared         0
+
+  "Playing together increases your Honor"
+
+Notes:
+- Ally status starts at "Not Yet Allies"; Honor progresses 0 -> 25.
+- Honor is earned by playing together; tracked per activity:
+  campaign chapters, escape chapters, versus rounds won, horde waves cleared.
+- Squad list: "My Squad (1/20) Friends Only"; menu also has
+  Account Linking and Find Someone options.

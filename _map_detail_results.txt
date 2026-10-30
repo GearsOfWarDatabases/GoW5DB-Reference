@@ -1,0 +1,123 @@
+shot-unknown.jpg	ALLFATHERS ARENA	0.77
+shot-0886.jpg	ALLFATHERS ARENA	1.00
+shot-unknown.jpg	REGENCY	1.00
+shot-0887.jpg	REGENCY	1.00
+shot-0888.jpg	ASYLUM	1.00
+shot-unknown.jpg	ASYLUM	1.00
+shot-unknown.jpg	BUNKER	1.00
+shot-unknown.jpg	BLOOD DRIVE	1.00
+shot-unknown.jpg	GRIDLOCK	1.00
+shot-unknown.jpg	FOUNDATION	1.00
+shot-unknown.jpg	ICEBOUND	0.88
+shot-unknown.jpg	EXHIBIT	1.00
+shot-unknown.jpg	RIVER	1.00
+shot-unknown.jpg	MERCY	1.00
+shot-unknown.jpg	DISTRICT	1.00
+shot-unknown.jpg	EPHYRA	1.00
+shot-unknown.jpg	TOMB	0.73
+shot-unknown.jpg	NEXUS	1.00
+shot-unknown.jpg	CLOCKTOWER	1.00
+shot-unknown.jpg	RITUAL	1.00
+shot-unknown.jpg	CANALS	1.00
+shot-unknown.jpg	ABYSS	1.00
+shot-unknown.jpg	RAIL LINE	1.00
+shot-unknown.jpg	COMMAND	1.00
+shot-unknown.jpg	SPEYER	0.80
+shot-unknown.jpg	VILLAGE	1.00
+shot-0889.jpg	VILLAGE	1.00
+shot-0890.jpg	COMMAND	1.00
+shot-0891.jpg	TURBINE	1.00
+shot-0892.jpg	SPEYER	1.00
+shot-0893.jpg	THE LINE	0.77
+shot-0895.jpg	OVERLOAD	1.00
+shot-0897.jpg	CANALS	1.00
+shot-0898.jpg	ABYSS	1.00
+shot-0899.jpg	NEXUS	1.00
+shot-0900.jpg	CLOCKTOWER	1.00
+shot-0901.jpg	RITUAL	1.00
+shot-0902.jpg	HARBOR	1.00
+shot-0903.jpg	EPHYRA	1.00
+shot-0904.jpg	TOMB	1.00
+shot-0905.jpg	FORGE	1.00
+shot-0907.jpg	VASGAR	1.00
+shot-0908.jpg	MERCY	1.00
+shot-0909.jpg	DISTRICT	1.00
+shot-unknown.jpg	TRAINING GROUNDS	1.00
+shot-0910.jpg	RIVER	1.00
+shot-0911.jpg	RECLAIMED	1.00
+shot-0912.jpg	REFACTOR	0.93
+shot-0913.jpg	ICEBOUND	1.00
+shot-0916.jpg	GRIDLOCK	1.00
+shot-0919.jpg	ICEBOUND	1.00
+shot-0921.jpg	FOUNDATION	1.00
+shot-0922.jpg	GRIDLOCK	1.00
+shot-0923.jpg	BLOOD DRIVE	1.00
+shot-0924.jpg	CHECKOUT	1.00
+shot-0925.jpg	BUNKER	1.00
+shot-0926.jpg	ASYLUM	1.00
+shot-0927.jpg	REGENCY	1.00
+shot-0928.jpg	ALLFATHERS ARENA	1.00
+shot-unknown.jpg	THE GAUNTLET	1.00
+shot-unknown.jpg	THE CLOCK	1.00
+shot-unknown.jpg	FOREVER	1.00
+shot-unknown.jpg	THE SURGE	0.82
+shot-unknown.jpg	THE TRAP	0.80
+shot-unknown.jpg	THE HIVE	1.00
+shot-unknown.jpg	VENOM RUN	1.00
+shot-unknown.jpg	THE WANDERER	1.00
+shot-unknown.jpg	THE LABYRINTH	1.00
+shot-unknown.jpg	LAST STAND	1.00
+shot-unknown.jpg	THE BLIGHT	0.91
+shot-unknown.jpg	THE LINK	1.00
+shot-unknown.jpg	THE LINE	1.00
+shot-unknown.jpg	THE BARRACKS	1.00
+shot-unknown.jpg	MELEE BRAWL	0.88
+shot-unknown.jpg	THE SPLIT	0.86
+shot-unknown.jpg	THE MIST	1.00
+shot-0948.jpg	THE MIST	1.00
+shot-0949.jpg	THE GATEKEEPERS	1.00
+shot-0950.jpg	THE AMBUSH	1.00
+shot-0952.jpg	THE MALFUNCTION	1.00
+shot-0953.jpg	THE SPLIT	1.00
+shot-0955.jpg	MELEE BRAWL	1.00
+shot-0956.jpg	THE BARRACKS	1.00
+shot-0957.jpg	THE CHOKE	1.00
+shot-0958.jpg	THE END	1.00
+shot-0959.jpg	LETHAL ENGAGEMENTS	1.00
+shot-0960.jpg	THE LINE	1.00
+shot-0961.jpg	THE LINK	1.00
+shot-0962.jpg	THE BLIGHT	1.00
+shot-0964.jpg	ICE QUEEN	1.00
+shot-0965.jpg	THE DETOUR	1.00
+shot-0966.jpg	LAST STAND	1.00
+shot-0967.jpg	THE LABYRINTH	0.87
+shot-0969.jpg	VENOM RUN	0.82
+shot-0970.jpg	THE WANDERER	1.00
+shot-0971.jpg	FOREVER	1.00
+shot-0972.jpg	THE SURGE	1.00
+shot-0973.jpg	THE TRAP	1.00
+shot-0974.jpg	THE DESCENT	1.00
+shot-0975.jpg	THE GAUNTLET	1.00
+shot-0976.jpg	THE CLOCK	1.00
+shot-0978.jpg	THE HUNTERS	1.00
+shot-0979.jpg	THE HIVE - PAST HIVE	1.00
+shot-0993.jpg	SPEYER	0.73
+shot-unknown.jpg	LIFT	1.00
+shot-unknown.jpg	RECLAIMED	1.00
+shot-unknown.jpg	REFACTOR	0.80
+shot-unknown.jpg	HARBOR	0.75
+shot-unknown.jpg	DAWN	1.00
+shot-unknown.jpg	ATRIUM	1.00
+shot-unknown.jpg	TURBINE	1.00
+shot-0906.jpg	PAHANU	1.00
+shot-unknown.jpg	THE HIVE - PAST HIVE	0.86
+shot-unknown.jpg	THE DESCENT	1.00
+shot-unknown.jpg	THE DETOUR	0.87
+shot-unknown.jpg	ICE QUEEN	0.89
+shot-unknown.jpg	THE WARREN	1.00
+shot-unknown.jpg	THE CHOKE	1.00
+shot-unknown.jpg	THE CORRUPTION	0.90
+shot-unknown.jpg	THE ONSLAUGHT	1.00
+shot-0951.jpg	THE ONSLAUGHT	1.00
+shot-0954.jpg	THE CORRUPTION	0.78
+shot-0963.jpg	THE WARREN	1.00

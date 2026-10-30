@@ -1,0 +1,13 @@
+Class level XP requirements (from match results / Classes menu screenshots)
+===========================================================================
+Data points so far (Protector):
+- Level 1 -> 2: ?          (not captured)
+- Level 2 -> 3: 500 XP     ("228 / 500" match results; "400 / 500" Classes menu)
+- Level 3 -> 4: 1'000 XP   ("836 / 1'000" Classes menu)
+- Card unlock confirmed: Big Knife unlocks at class level 2
+  (match results screen "NEW SKILL - BIG KNIFE" on hitting level 2).
+
+XP requirements appear to be per-class-level and (presumably) identical for
+every class - needs a second class to confirm. Add more data points here as
+screenshots come in; once the curve is complete it can become a table on the
+Classes page.

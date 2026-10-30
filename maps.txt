@@ -1,0 +1,76 @@
+PVP and PVE (Horde)
+
+Abyss
+Allfathers Arena
+Asylum
+Atrium
+Blood Drive
+Bunker
+Canals
+Checkout
+Clocktower
+Command
+Dam
+Dawn
+District
+Ephyra
+Exhibit
+Forge
+Foundation
+Gridlock
+Harbor
+Icebound
+Lift
+Mercy
+Nexus
+Overload
+Pahanu
+Rail Line
+Reclaimed
+Refactor
+Regency
+Ritual
+River
+Speyer
+Tomb
+Training Grounds
+Turbine
+Vasgar
+Village
+
+-
+
+PVE (Escape)
+
+Forever
+Ice Queen
+Last Stand
+Lethal Engagements
+Melee Brawl
+The Ambush
+The Barracks
+The Blight
+The Choke
+The Clock
+The Corruption
+The Descent
+The Detour
+The End
+The Gatekeepers
+The Gauntlet
+The Hive
+The Hive - Past Hive
+The Hunters
+The Labyrinth
+The Line
+The Link
+The Malfunction
+The Mines
+The Mist
+The Onslaught
+The Split
+The Surge
+The Trap
+The Wanderer
+The Warren
+Venom Run

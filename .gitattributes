@@ -1,0 +1,19 @@
+# Auto detect text files and force LF normalization on all platforms,
+# regardless of each contributor's local core.autocrlf setting.
+* text=auto eol=lf
+
+# Explicitly mark common binary types so they're never touched by
+# line-ending normalization, even if auto-detection misfires.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.otf binary
+*.eot binary
+*.pdf binary
+*.zip binary

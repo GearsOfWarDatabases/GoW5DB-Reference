@@ -1,3 +1,10 @@
+<p align="center">
+  <img src=".github/logo.png" width="112" alt="">
+</p>
+<p align="center">
+  <img src=".github/banner.png" alt="">
+</p>
+
 # GoW5DB-Reference
 
 The reference screenshots behind [GoW5DB](https://github.com/TheSCREWEDSoftware/GoW5DB) (the Gears 5 Database),

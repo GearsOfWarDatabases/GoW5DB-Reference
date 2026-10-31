@@ -7,7 +7,7 @@
 
 # GoW5DB-Reference
 
-The reference screenshots behind [GoW5DB](https://github.com/TheSCREWEDSoftware/GoW5DB) (the Gears 5 Database),
+The reference screenshots behind [GoW5DB](https://github.com/GearsOfWarDatabases/GoW5DB) (the Gears 5 Database),
 sorted by section, and the scripts that sort them (`sort-screenshots.py`, see `CLAUDE.md`). Included in GoW5DB as
 its `ref/` submodule; the site doesn't need it to build.
 
